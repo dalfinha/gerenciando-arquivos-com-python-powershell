@@ -49,3 +49,4 @@ Reprodução por <a href="https://www.techrepublic.com/pictures/spotlight-treesi
 - O script não foi testado em um ambiente de arquivos distribuídos. Se caso o teste, por favor, me informe o status da execução na Issues. 
 - Você pode 'higienizar' o script em PowerShell, visto que o mesmo tenta quebrar o delimitador do arquivo. Isso só acontece para oportunidade de utilizar este CSV em outras análises ou aplicações. 
 - O gráfico não está configurado para ser salvo na máquina que iniciará a execução. Caso o queira, troque o `show()` para `savefig()`.
+- Não esqueça de alterar os caminhos em que o arquivo principal é gerado e salvo!
