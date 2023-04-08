@@ -39,9 +39,9 @@ Reprodução por <a href="https://www.techrepublic.com/pictures/spotlight-treesi
 
   Exemplo: 
 
-![image](https://user-images.githubusercontent.com/72402847/230733988-e192b596-12d9-4cc5-b4d5-d207b36cd5f8.png)
+![image](https://user-images.githubusercontent.com/72402847/230734885-17460a52-296c-4630-8385-f12ff1529afb.png)
 
-**Onde mostra - de forma agrupada - que tenho >4000MB de arquivos que não utilizo a mais de 2 anos!**
+**Onde mostra - de forma agrupada - que tenho >6GB de arquivos que não utilizo a mais de 1 ano!**
 
 
 
