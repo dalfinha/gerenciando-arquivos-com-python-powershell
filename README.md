@@ -35,7 +35,7 @@ Reprodução por <a href="https://www.techrepublic.com/pictures/spotlight-treesi
 3. Ao extrair as informações ele delimita o .CSV e chama o código em Python.
 4. O Python recebe os dados com a biblioteca `pandas`, transformando o arquivo em Excel.
 5. Analisa as colunas, criando uma nova chamada "Categoria", que agrupa o tempo em que o arquivo foi utilizado, metrificando nas classificações 0, 30, 60, 90 dias até 365 dias. 
-6. Com a biblioteca `matpilotlib`, após a criação desta nova coluna, é criado um gráfico que mostra a quantidade de arquivos não abertos a mais de X tempo e a quantidade de armazenamento que estes arquivos estão consumindo, em MB. 
+6. Com a biblioteca `matpilotlib`, após a criação desta nova coluna é criado um gráfico que mostra a quantidade de arquivos não abertos a mais de X tempo e a quantidade de armazenamento que estes arquivos estão consumindo, em MB. 
 
   Exemplo: 
 
